@@ -1,0 +1,36 @@
+Grocery List
+
+### Produce  
+- Apples (4)  
+- Bananas (6)  
+- Spinach (1 bag)  
+- Carrots (1 lb)  
+- Bell Peppers (3, assorted colors)  
+
+### Proteins  
+- Chicken Breast (2 lbs)  
+- Ground Turkey (1 lb)  
+- Eggs (1 dozen)  
+- Tofu (1 block)  
+
+### Dairy  
+- Milk (1 gallon)  
+- Greek Yogurt (plain, 32 oz)  
+- Cheddar Cheese (8 oz block)  
+
+### Grains  
+- Whole Wheat Bread (1 loaf)  
+- Brown Rice (2 lbs)  
+- Oats (1 lb)  
+
+### Pantry Staples  
+- Olive Oil (1 bottle)  
+- Black Beans (2 cans)  
+- Pasta (1 lb)  
+- Tomato Sauce (1 jar)  
+
+### Snacks & Miscellaneous  
+- Almonds (1 lb)  
+- Dark Chocolate (1 bar)  
+- Coffee (12 oz bag)  
+
